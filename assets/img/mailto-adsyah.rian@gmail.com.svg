@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+width="594px" height="594px" viewBox="0 0 594 594" enable-background="new 0 0 594 594" xml:space="preserve">
+<rect x="0" y="0" width="594" height="594" fill="rgb(255,255,255)" /><g transform="translate(36,36)"><g><defs>
+    <linearGradient gradientTransform="rotate(90)" id="grad">
+    <stop offset="5%" stop-color="rgb(17,17,17)" />
+    <stop offset="95%" stop-color="rgb(85,85,85)" />
+    </linearGradient>
+<mask id="gmask"><g>
+<g transform="translate(144,0) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(198,0) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(216,0) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(270,0) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(288,0) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(324,0) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(162,18) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(198,18) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(216,18) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(234,18) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(252,18) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(288,18) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,18) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(144,36) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(162,36) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(180,36) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(216,36) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(252,36) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,36) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(288,36) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,36) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(342,36) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(360,36) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(162,54) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(252,54) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,54) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(324,54) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(198,72) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(234,72) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(252,72) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,72) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(324,72) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(144,90) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(180,90) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(216,90) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(270,90) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(324,90) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,90) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(144,108) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(180,108) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(216,108) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(252,108) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(288,108) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(324,108) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(360,108) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(198,126) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(216,126) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(252,126) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,126) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(288,126) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(360,126) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(0,144) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(36,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(108,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(126,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(198,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(234,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(252,144) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(324,144) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(360,144) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(414,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(468,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(504,144) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(36,162) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(72,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(90,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(126,162) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(144,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(180,162) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(216,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(234,162) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(252,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(306,162) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(342,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(360,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(396,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(414,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(450,162) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(468,162) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(504,162) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(36,180) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(54,180) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(72,180) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(108,180) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(126,180) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(144,180) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(270,180) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(342,180) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,180) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(432,180) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(450,180) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(468,180) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(504,180) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(36,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(54,198) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(72,198) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(90,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(180,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(198,198) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(216,198) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(234,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(342,198) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(450,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(486,198) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(72,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(108,216) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(144,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(162,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(234,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(270,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(288,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(342,216) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,216) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,216) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,216) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(414,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(486,216) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(180,234) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(198,234) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(216,234) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(288,234) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(342,234) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,234) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,234) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(414,234) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(450,234) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(504,234) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(18,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(36,252) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(54,252) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(72,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(108,252) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(162,252) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(234,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(252,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(288,252) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(324,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(342,252) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(432,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(450,252) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(468,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(504,252) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(90,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(126,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(144,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(216,270) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(252,270) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,270) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(288,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(324,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(396,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(432,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(450,270) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(486,270) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(0,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(18,288) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(36,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(72,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(90,288) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(108,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(162,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(234,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(252,288) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(342,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(360,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(396,288) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(450,288) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(486,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(504,288) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(18,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(36,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(54,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(90,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(126,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(162,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(198,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(216,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(234,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(252,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(306,306) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(360,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(414,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(450,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(468,306) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(504,306) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(0,324) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(18,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(36,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(54,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(108,324) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(126,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(144,324) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(216,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,324) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(342,324) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(360,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,324) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(504,324) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(36,342) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(54,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(72,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(90,342) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(126,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(180,342) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(216,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(234,342) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(324,342) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(342,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,342) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(486,342) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(0,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(18,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(90,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(108,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(126,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(144,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(180,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(198,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(216,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(234,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(270,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(288,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(360,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(414,360) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(432,360) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(144,378) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(162,378) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(198,378) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(216,378) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(288,378) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,378) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(360,378) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(432,378) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(468,378) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(504,378) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(144,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(162,396) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(180,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(234,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(252,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(288,396) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(360,396) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,396) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(432,396) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(450,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,13.999H0V0.028v-0.029h3.43C9.269-0.001,13.999,6.267,13.999,13.999z"/>
+</g></g><g transform="translate(504,396) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(180,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(216,414) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(252,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(288,414) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(324,414) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(342,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(432,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(450,414) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(180,432) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(198,432) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(234,432) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(252,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,432) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999-0.001v14H0.029H0v-3.431C0,4.729,6.267-0.001,13.999-0.001z"/>
+</g></g><g transform="translate(324,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(342,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(360,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(414,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(432,432) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(450,432) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(216,450) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(252,450) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,450) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(342,450) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,450) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(414,450) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(432,450) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(486,450) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(144,468) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(180,468) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(216,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(234,468) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(252,468) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(270,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(342,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+        <path d="M0-0.001h14v13.97v0.029l-3.431,0.001C4.731,13.999,0,7.731,0-0.001z"/>
+</g></g><g transform="translate(360,468) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(378,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(432,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(468,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(486,468) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(504,468) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0c0,0,9.15,4.38,14,0.55C14,0.55,14.24,14,0,14z"/>
+</g></g><g transform="translate(198,486) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(306,486) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(360,486) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(396,486) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(450,486) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M14,14H0c0,0,4.38-9.15,0.55-14C0.55,0,14-0.24,14,14z"/>
+</g></g><g transform="translate(144,504) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(216,504) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(252,504) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(270,504) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(288,504) scale(0.18,0.18)"><g transform="" style="fill: rgb(255, 255, 255);">
+<rect width="100" height="100"/>
+</g></g><g transform="translate(306,504) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(360,504) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(396,504) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M-0.001,0l14,0c0,0-4.381,9.151-0.551,14C13.448,14-0.001,14.24-0.001,0z"/>
+</g></g><g transform="translate(432,504) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M13.999,0v14c0,0-9.151-4.381-14-0.551C-0.001,13.449-0.242,0,13.999,0z"/>
+</g></g><g transform="translate(450,504) scale(1.2857142857143,1.2857142857143)"><g transform="" style="fill: rgb(255, 255, 255);">
+    <path d="M0,14V0h13.971H14v3.43C14,9.27,7.732,14,0,14z"/>
+</g></g><g transform="translate(504,504) scale(0.036,0.036)"><g transform="" style="fill: rgb(255, 255, 255);">
+<path d="M250,0c138.077,0,250,111.93,250,250c0,138.077-111.923,250-250,250C111.93,500,0,388.077,0,250C0,111.93,111.93,0,250,0z"
+	/>
+</g></g><g transform="translate(0,0) scale(1.26, 1.26)"><g transform=" translate(0,100) scale(1,-1) " style="fill: rgb(255, 255, 255);">
+<g>
+</g>
+<g>
+	<path fill="none" d="M15.02,34.145L15.004,85H66.25C76.589,85,85,76.414,85,65.86V15H33.78C23.436,15,15.02,23.586,15.02,34.145z"
+		/>
+	<path d="M66.25,0H33.78C15.16,0,0.02,15.32,0.02,34.14L0,100h66.25C84.86,100,100,84.68,100,65.86V34.14V0H66.25z M85,65.86
+		C85,76.414,76.589,85,66.25,85H15.004l0.016-50.855C15.02,23.586,23.436,15,33.78,15H85V65.86z"/>
+</g>
+</g></g><g transform="translate(396,0) scale(1.26, 1.26)"><g transform="" style="fill: rgb(255, 255, 255);">
+<g>
+</g>
+<g>
+	<path fill="none" d="M15.02,34.145L15.004,85H66.25C76.589,85,85,76.414,85,65.86V15H33.78C23.436,15,15.02,23.586,15.02,34.145z"
+		/>
+	<path d="M66.25,0H33.78C15.16,0,0.02,15.32,0.02,34.14L0,100h66.25C84.86,100,100,84.68,100,65.86V34.14V0H66.25z M85,65.86
+		C85,76.414,76.589,85,66.25,85H15.004l0.016-50.855C15.02,23.586,23.436,15,33.78,15H85V65.86z"/>
+</g>
+</g></g><g transform="translate(0,396) scale(1.26, 1.26)"><g transform="" style="fill: rgb(255, 255, 255);">
+<g>
+</g>
+<g>
+	<path fill="none" d="M15.02,34.145L15.004,85H66.25C76.589,85,85,76.414,85,65.86V15H33.78C23.436,15,15.02,23.586,15.02,34.145z"
+		/>
+	<path d="M66.25,0H33.78C15.16,0,0.02,15.32,0.02,34.14L0,100h66.25C84.86,100,100,84.68,100,65.86V34.14V0H66.25z M85,65.86
+		C85,76.414,76.589,85,66.25,85H15.004l0.016-50.855C15.02,23.586,23.436,15,33.78,15H85V65.86z"/>
+</g>
+</g></g><g transform="translate(36,36) scale(0.54, 0.54)"><g transform=" translate(0,100) scale(1,-1) " style="fill: rgb(255, 255, 255);">
+<g>
+</g>
+<path d="M72.744-0.021H27.23c-2.341,0-4.612,0.297-6.771,0.875C15.679,2.11,11.418,4.648,8.04,8.09
+	c-0.617,0.621-1.206,1.284-1.752,1.96c-3.883,4.767-6.21,10.903-6.21,17.561L0.05,99.979h72.694
+	c14.971,0,27.138-12.397,27.138-27.63V27.625v-0.014l0.168-27.617C100.05-0.006,82.107-0.021,72.744-0.021z"/>
+</g></g><g transform="translate(432,36) scale(0.54, 0.54)"><g transform="" style="fill: rgb(255, 255, 255);">
+<g>
+</g>
+<path d="M72.744-0.021H27.23c-2.341,0-4.612,0.297-6.771,0.875C15.679,2.11,11.418,4.648,8.04,8.09
+	c-0.617,0.621-1.206,1.284-1.752,1.96c-3.883,4.767-6.21,10.903-6.21,17.561L0.05,99.979h72.694
+	c14.971,0,27.138-12.397,27.138-27.63V27.625v-0.014l0.168-27.617C100.05-0.006,82.107-0.021,72.744-0.021z"/>
+</g></g><g transform="translate(36,432) scale(0.54, 0.54)"><g transform="" style="fill: rgb(255, 255, 255);">
+<g>
+</g>
+<path d="M72.744-0.021H27.23c-2.341,0-4.612,0.297-6.771,0.875C15.679,2.11,11.418,4.648,8.04,8.09
+	c-0.617,0.621-1.206,1.284-1.752,1.96c-3.883,4.767-6.21,10.903-6.21,17.561L0.05,99.979h72.694
+	c14.971,0,27.138-12.397,27.138-27.63V27.625v-0.014l0.168-27.617C100.05-0.006,82.107-0.021,72.744-0.021z"/>
+</g></g></g></mask></defs></g><rect x="0" y="0" width="522" height="522" fill="url(#grad)" mask="url(#gmask)" /></g></svg>
